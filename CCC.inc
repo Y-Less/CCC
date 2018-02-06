@@ -1,2 +1,2 @@
-#error Y-Less
+#define Y_Less_CCC
 
