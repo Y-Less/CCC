@@ -1,8 +1,8 @@
 {
 	"user": "Y-Less",
-	"repo": "CCC",
-	"entry": "CCC.pwn",
-	"output": "CCC.amx",
+	"repo": "awesome-sampctl-dependency",
+	"entry": "awesome-sampctl-dependency.pwn",
+	"output": "awesome-sampctl-dependency.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib"
 	]
