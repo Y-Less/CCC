@@ -1,0 +1,9 @@
+{
+	"user": "Y-Less",
+	"repo": "CCC",
+	"entry": "CCC.pwn",
+	"output": "CCC.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
